@@ -60,4 +60,21 @@ Rich Domain Model
 目標：把任務清單變成按照步驟implement plan
 目的：把任務拆小，讓人可以review，讓ai可以控制輸出
 輸出成implementation plan
-叫做【步驟 2選擇理想的工作場景implement_plan.md】
+
+@AI智能履歷-用戶流程任務清單.md 
+把步驟 3：選擇技能 輸出成implementation plan
+叫做【步驟 3：選擇技能implement_plan.md】
+放在 @doc/AI-Resume-PocV2/backend_implementation_plan 
+
+---
+目標：poc畫面可以接api
+目的：驗證後端產生的api至少可以滿足poc的需求
+
+幫我依照 #file:UserService 有的api 對 #file:prototype 的前端做api串接計劃。
+預計會有 #file:AI智能履歷-用戶流程任務清單.md 步驟 1：註冊帳號和步驟 2：選擇理想的工作場景
+我要串接就好
+不要管錯誤處理和資訊安全的東西
+我只是要嘗試後端的api可以滿足poc的畫面
+不需要多餘的東西
+重新產生plan
+先列出你的串接計劃到api_integration_plan.md
